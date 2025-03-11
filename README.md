@@ -1,6 +1,6 @@
 # Intent-Aware Self-Correction for Mitigating Social Biases in LLMs
 ## 📣 Updates
-- Coming soon: arXiv preprint with additional experiments and analysis results
+- Mar 11, 2025: We released our latest version of the paper with more experimental results and analyses in arXiv, titled as [Intent-Aware Self-Correction for Mitigating Social Biases in Large Language Models](http://arxiv.org/abs/2503.06011)
 - Mar 10, 2025: We will present in Japan's the 31st Annual Meeting of the Association for Natural Language Processing ([ANLP2025](https://www.anlp.jp/nlp2025/))
   - [Paper](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/Q2-22.pdf) (Titled as: Mitigating Social Bias in Large Language Models by Self-Correction)
 
